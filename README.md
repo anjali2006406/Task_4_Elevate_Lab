@@ -72,7 +72,36 @@ Geographical visualization using map to track city-level sales.
 
 ##  Dashboard Preview
 
-![Beverage Sales Dashboard](./Screenshot%202025-04-12%20175607.png)
+**Sum of Total Sales by months**
+
+
+![Screenshot 2025-04-12 180653](https://github.com/user-attachments/assets/b884c9a8-c4fe-46b9-ac37-345a46422ecf)
+
+---
+
+**Sum of Total Sales by Beverage Brand**
+
+![Screenshot 2025-04-12 180715](https://github.com/user-attachments/assets/2e4e1a9e-afa3-4cc4-b2ca-9d76106d9a26)
+
+---
+
+
+**Sum of Total Sales by Retailer**
+
+![Screenshot 2025-04-12 180742](https://github.com/user-attachments/assets/d3a41024-4cff-4545-9e90-54394bc3c7cc)
+
+---
+
+**Sum of Total Sales by State**
+
+
+![Screenshot 2025-04-12 180800](https://github.com/user-attachments/assets/9f035432-6213-492c-b86e-70581c112af8)
+
+---
+
+**Sum of Units Sold by City**
+
+![Screenshot 2025-04-13 175350](https://github.com/user-attachments/assets/ce82966b-6cca-4a30-baee-43894c90c5ff)
 
 
 
