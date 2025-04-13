@@ -107,10 +107,12 @@ Geographical visualization using map to track city-level sales.
 
 ---
 
-##  Author
+### **Author**
 
 **Anjali Singh**  
-_Aspiring Business and Data Analyst_  
+
+_Aspiring Business and Data Analyst_ 
+
 🔗 [LinkedIn] :-www.linkedin.com/in/anjalissingh 
 
 ---
